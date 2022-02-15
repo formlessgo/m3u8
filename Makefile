@@ -1,6 +1,6 @@
 APP_NAME := M3U8
 BIN_NAME := m3u8
-APP_VERSION = 0.0.1
+APP_VERSION = 0.1.0
 
 SHELL := env /bin/bash
 
